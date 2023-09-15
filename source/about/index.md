@@ -30,4 +30,4 @@ Our team of experts has meticulously crafted this reference to provide instant i
 
 Start exploring now and make [https://quickref.me/] your trusted companion in [area/topic]!!
 
-Have feedback or suggestions? Reach out to us at [https://twitter.com/FechinLi].
+Have feedback or suggestions? Reach out to us at [https://twitter.com/huynhthanhdan1710].
