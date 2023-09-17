@@ -17,28 +17,31 @@ Getting Started {.cols-2}
 ---------------
 
 ### Account Funtions 
-|  Command                                                                    | Description                                      |
-|-----------------------------------------------------------------------------|--------------------------------------------------|
-| `whmapi1 createacct username='username' domain='example.com'`               | Create Accout                                    |
-| `whmapi1 get_current_users_count`                                           | Return cPanel accounts total number              |
-| `whmapi1 get_maximum_users`                                                 | Return maximum accounts for license              |
-| `whmapi1 verify_new_username`                                               | Validate new cPanel account username             |
-| `whmapi1  accountsummary username='username'domain='example.com'`           | Return cPanel account summary                    |
-| `whmapi1 list_users`                                                        | Return root and cPanel accouts                   |
-| `whmapi1 removeacct`                                                        | Delete accouts                             |
-| `docker rm <container>`             | Remove a container                               |
-| `docker port <container>`           | Shows container's port mapping                   |
-| `docker top <container>`            | List processes                                   |
-| `docker kill <container>`           | Kill a container                                 |
+|  Command                           | Description                                      |
+|------------------------------------|--------------------------------------------------|
+| `whmapi1 createacct`               | Create Accout                                    |
+| `whmapi1 get_current_users_count`  | Return cPanel accounts total number              |
+| `whmapi1 get_maximum_users`        | Return maximum accounts for license              |
+| `whmapi1 verify_new_username`      | Validate new cPanel account username             |
+| `whmapi1  accountsummary`          | Return cPanel account summary                    |
+| `whmapi1 list_users`               | Return root and cPanel accouts                   |
+| `whmapi1 removeacct`               | Delete accouts                                   |
+| `whmapi1 has_mycnf_for_cpuser`     | Validate MySQL Configuration file                |
+| `whmapi1  get_disk_usage`          | Return all cPanel accounts disk usage            |
+| `whmapi1  limitbw user=<username>` | Update cPanel account bandwidth quota            |
+| `whmapi1 domainuserdata domain=<>` | Return domain user information                   |
+| `whmapi1 get_domain_info`          | Return all domains information                   |
+| `whmapi1 getdomainowner domain=<> `| Return domain owner                              |
+| `whmapi1 passwd user=<>password=<>`| Update cPanel account password                   |
+| `whmapi1 listlockedaccounts`       | Return suspended cPanel accounts                 |
 
-
-### General commands 
+### Database management commands 
 | Example                             | Description                                      |
 |-------------------------------------|--------------------------------------------------|
-| `docker ps`                         | List running containers                          |
-| `docker ps -a`                      | List all containers                              |
-| `docker ps -s`                      | List running containers<br>_(with CPU / memory)_ |
-| `docker images`                     | List all images                                  |
+| `whmapi1 get_database_optimizations`| Return MySQL database optimizations              |
+| `whmapi1 list_database_users`       | Return MySQL users                               |
+| `whmapi1 list_databases`            | Return MySQL databases
+| `whmapi1 list_mysql_databases_and_users user='username'`                     | List all images                                  |
 | `docker exec -it <container>  bash` | Connecting to container                          |
 | `docker logs <container>`           | Shows container's console log                    |
 | `docker stop <container>`           | Stop a container                                 |
