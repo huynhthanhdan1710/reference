@@ -8,7 +8,7 @@ tags:
 categories:
     - Programming
 intro: |
-    This is a quick reference cheat sheet for [WHMAPI](https://api.docs.cpanel.net/). And you can find the most common Docker commands here.
+    This is a quick reference cheat sheet for [WHMAPI](https://api.docs.cpanel.net/). And you can find the most common WHMAPI1 commands here.
 plugins:
     - copyCode
 ---
