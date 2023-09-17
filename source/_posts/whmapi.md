@@ -41,7 +41,7 @@ Getting Started {.cols-2}
 | `whmapi1 get_database_optimizations`| Return MySQL database optimizations              |
 | `whmapi1 list_database_users`       | Return MySQL users                               |
 | `whmapi1 list_databases`            | Return MySQL databases
-| `whmapi1 list_mysql_databases_and_users user='username'`                     | List all images                                  |
+| `whmapi1 list_mysql_databases_and_usersuser='username'`                     | Return MySQL databases and users for account|
 | `docker exec -it <container>  bash` | Connecting to container                          |
 | `docker logs <container>`           | Shows container's console log                    |
 | `docker stop <container>`           | Stop a container                                 |
