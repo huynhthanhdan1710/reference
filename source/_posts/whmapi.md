@@ -13,7 +13,7 @@ plugins:
     - copyCode
 ---
 
-Getting Started {.cols-2}
+WHMAPI1  {.cols-2}
 ---------------
 
 ### Account Funtions 
@@ -42,16 +42,9 @@ Getting Started {.cols-2}
 | `whmapi1 list_database_users`       | Return MySQL users                               |
 | `whmapi1 list_databases`            | Return MySQL databases
 | `whmapi1 list_mysql_databases_and_usersuser='username'`                     | Return MySQL databases and users for account|
-| `docker exec -it <container>  bash` | Connecting to container                          |
-| `docker logs <container>`           | Shows container's console log                    |
-| `docker stop <container>`           | Stop a container                                 |
-| `docker restart <container>`        | Restart a container                              |
-| `docker rm <container>`             | Remove a container                               |
-| `docker port <container>`           | Shows container's port mapping                   |
-| `docker top <container>`            | List processes                                   |
-| `docker kill <container>`           | Kill a container                                 |
-
-Parameter `<container>` can be container id or name
+| `whmapi1 rename_mysql_database oldname='database' newname='database2'` | Update MySQL database name                      |
+| `whmapi1 rename_mysql_user  oldname='username' oldname='username'`           | Update MySQL username                    |
+| `whmapi1  set_mysql_password user='username' password='123456'`           | Update MySQL user password                                 |
 
 
 
