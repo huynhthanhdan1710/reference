@@ -56,7 +56,7 @@ Getting Started
     ```
 {.collapsible}
 
-[💡 I Got an IDEA](https://github.com/Fechin/reference/blob/main/source/_posts/chatgpt.md)
+[💡 I Got an IDEA](https://github.com/huynhthanhdan1710/reference/blob/main/source/_posts/chatgpt.md)
 
 
 
@@ -117,7 +117,7 @@ Getting Started
     ```
 {.collapsible}
 
-[💡 I Got an IDEA](https://github.com/Fechin/reference/blob/main/source/_posts/chatgpt.md)
+[💡 I Got an IDEA](https://github.com/huynhthanhdan1710/reference/blob/main/source/_posts/chatgpt.md)
 
 
 
@@ -157,7 +157,7 @@ Getting Started
     ```
 {.collapsible}
 
-[💡 I Got an IDEA](https://github.com/Fechin/reference/blob/main/source/_posts/chatgpt.md)
+[💡 I Got an IDEA](https://github.com/huynhthanhdan1710/reference/blob/main/source/_posts/chatgpt.md)
 
 
 
@@ -185,7 +185,7 @@ Getting Started
     ```
 {.collapsible}
 
-[💡 I Got an IDEA](https://github.com/Fechin/reference/blob/main/source/_posts/chatgpt.md)
+[💡 I Got an IDEA](https://github.com/huynhthanhdan1710/reference/blob/main/source/_posts/chatgpt.md)
 
 
 
@@ -209,7 +209,7 @@ Getting Started
     ```
 {.collapsible}
 
-[💡 I Got an IDEA](https://github.com/Fechin/reference/blob/main/source/_posts/chatgpt.md)
+[💡 I Got an IDEA](https://github.com/huynhthanhdan1710/reference/blob/main/source/_posts/chatgpt.md)
 
 
 
@@ -229,7 +229,7 @@ Getting Started
     ```
 {.collapsible}
 
-[💡 I Got an IDEA](https://github.com/Fechin/reference/blob/main/source/_posts/chatgpt.md)
+[💡 I Got an IDEA](https://github.com/huynhthanhdan1710/reference/blob/main/source/_posts/chatgpt.md)
 
 
 
@@ -253,7 +253,7 @@ Getting Started
     ```
 {.collapsible}
 
-[💡 I Got an IDEA](https://github.com/Fechin/reference/blob/main/source/_posts/chatgpt.md)
+[💡 I Got an IDEA](https://github.com/huynhthanhdan1710/reference/blob/main/source/_posts/chatgpt.md)
 
 
 
@@ -272,7 +272,7 @@ Getting Started
     ```
 {.collapsible}
 
-[💡 I Got an IDEA](https://github.com/Fechin/reference/blob/main/source/_posts/chatgpt.md)
+[💡 I Got an IDEA](https://github.com/huynhthanhdan1710/reference/blob/main/source/_posts/chatgpt.md)
 
 
 
@@ -300,7 +300,7 @@ Getting Started
     ```
 {.collapsible}
 
-[💡 I Got an IDEA](https://github.com/Fechin/reference/blob/main/source/_posts/chatgpt.md)
+[💡 I Got an IDEA](https://github.com/huynhthanhdan1710/reference/blob/main/source/_posts/chatgpt.md)
 
 
 
@@ -328,7 +328,7 @@ Getting Started
     ```
 {.collapsible}
 
-[💡 I Got an IDEA](https://github.com/Fechin/reference/blob/main/source/_posts/chatgpt.md)
+[💡 I Got an IDEA](https://github.com/huynhthanhdan1710/reference/blob/main/source/_posts/chatgpt.md)
 
 
 
@@ -385,7 +385,7 @@ Getting Started
     ```
 {.collapsible}
 
-[💡 I Got an IDEA](https://github.com/Fechin/reference/blob/main/source/_posts/chatgpt.md)
+[💡 I Got an IDEA](https://github.com/huynhthanhdan1710/reference/blob/main/source/_posts/chatgpt.md)
 
 
 
@@ -412,7 +412,7 @@ Getting Started
     ```
 {.collapsible}
 
-[💡 I Got an IDEA](https://github.com/Fechin/reference/blob/main/source/_posts/chatgpt.md)
+[💡 I Got an IDEA](https://github.com/huynhthanhdan1710/reference/blob/main/source/_posts/chatgpt.md)
 
 
 
@@ -449,7 +449,7 @@ Getting Started
     ```
 {.collapsible}
 
-[💡 I Got an IDEA](https://github.com/Fechin/reference/blob/main/source/_posts/chatgpt.md)
+[💡 I Got an IDEA](https://github.com/huynhthanhdan1710/reference/blob/main/source/_posts/chatgpt.md)
 
 
 
@@ -495,7 +495,7 @@ Getting Started
     ```
 {.collapsible}
 
-[💡 I Got an IDEA](https://github.com/Fechin/reference/blob/main/source/_posts/chatgpt.md)
+[💡 I Got an IDEA](https://github.com/huynhthanhdan1710/reference/blob/main/source/_posts/chatgpt.md)
 
 
 
@@ -708,7 +708,7 @@ Getting Started
     ```
 {.collapsible}
 
-[💡 I Got an IDEA](https://github.com/Fechin/reference/blob/main/source/_posts/chatgpt.md)
+[💡 I Got an IDEA](https://github.com/huynhthanhdan1710/reference/blob/main/source/_posts/chatgpt.md)
 
 
 

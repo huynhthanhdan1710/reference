@@ -200,6 +200,10 @@ Disconnecting a container from a network
 ```shell script
 docker network disconnect MyOverlayNetwork nginx
 ```
+Check network of container
+``` shell script
+docker inspect Container-ID
+```
 
 
 

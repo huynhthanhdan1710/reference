@@ -19,9 +19,9 @@ Getting Started
 
 ### Develop Setup
 
-- Clone Repository [View on Github](https://github.com/Fechin/reference.git)
+- Clone Repository [View on Github](https://github.com/huynhthanhdan1710/reference.git)
     ```shell script {.wrap}
-    $ git clone https://github.com/Fechin/reference.git
+    $ git clone https://github.com/huynhthanhdan1710/reference.git
     ```
 - Install Dependencies in the project directory
     ```shell script
@@ -35,7 +35,7 @@ Getting Started
 - Send us pull request and chill
 {.marker-timeline}
  
-It's a good practice to refer to the source code of the [CheatSheets reference](https://github.com/Fechin/reference/blob/main/source/_posts/quickref.md).
+It's a good practice to refer to the source code of the [CheatSheets reference](https://github.com/huynhthanhdan1710/reference/blob/main/source/_posts/quickref.md).
 
 
 

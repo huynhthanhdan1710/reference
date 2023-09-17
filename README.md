@@ -1,7 +1,7 @@
 # 📖 Reference - Cheat Sheets for Developers
 
 [![love](https://badgen.net/badge/make%20with/love/pink)](#)
-[![License](https://badgen.net/badge/license/MIT/blue)](https://github.com/Fechin/reference/blob/main/LICENSE)
+[![License](https://badgen.net/badge/license/MIT/blue)](https://github.com/huynhthanhdan1710/reference/blob/main/LICENSE)
 [![Follow us on Twitter](https://img.shields.io/twitter/follow/FechinLi?style=social)](https://twitter.com/FechinLi)
 
 
@@ -238,7 +238,7 @@ This reference was made for Emacs 27.
 
 ## 🤝 Contributing
 
-We would like to extend our gratitude to you for considering a contribution to Reference. Your support is what makes CheatSheets.zip a truly amazing resource. Please feel free to [submit issues](https://github.com/Fechin/reference/issues/new?assignee=Fechin) and enhancement requests.
+We would like to extend our gratitude to you for considering a contribution to Reference. Your support is what makes CheatSheets.zip a truly amazing resource. Please feel free to [submit issues](https://github.com/huynhthanhdan1710/reference/issues/new?assignee=Fechin) and enhancement requests.
 
 For consistency, we encourage you to refer to the [https://cheatsheets.zip/quickref](https://cheatsheets.zip/quickref) when creating or editing cheat sheets. To get started with development, follow these steps:
 
@@ -268,8 +268,8 @@ categories:
 Only the `title` and `intro` fields are required, and the other options can be left blank. 
 
 
-<a href="https://github.com/Fechin/reference/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Fechin/reference" />
+<a href="https://github.com/huynhthanhdan1710/reference/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=huynhthanhdan1710/reference" />
 </a>
 
 
